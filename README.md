@@ -25,5 +25,9 @@ Build like this:
 
 ![Board](https://raw.githubusercontent.com/ciandt-dev/garage-kelvin-celsius/master/doc/images/board-v1.png)
 
+##Subir front
 
+"O monitor serial deve estar fechado para executar este comando."
+Para subir o front no ESP8266 deve-se executar um comando.
+Comando: platformio run --target uploadfs
 
